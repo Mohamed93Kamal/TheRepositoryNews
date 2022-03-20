@@ -1,0 +1,24 @@
+D:\New Project CMC\New Project\TestProject\TestProject.Core\bin\Debug\net5.0\TestProject.Core.deps.json
+D:\New Project CMC\New Project\TestProject\TestProject.Core\bin\Debug\net5.0\TestProject.Core.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Core\bin\Debug\net5.0\ref\TestProject.Core.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Core\bin\Debug\net5.0\TestProject.Core.pdb
+D:\New Project CMC\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.csproj.AssemblyReference.cache
+D:\New Project CMC\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Project CMC\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.AssemblyInfoInputs.cache
+D:\New Project CMC\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.AssemblyInfo.cs
+D:\New Project CMC\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.csproj.CoreCompileInputs.cache
+D:\New Project CMC\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\ref\TestProject.Core.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.pdb
+D:\New Project\New Project\TestProject\TestProject.Core\bin\Debug\net5.0\TestProject.Core.deps.json
+D:\New Project\New Project\TestProject\TestProject.Core\bin\Debug\net5.0\TestProject.Core.dll
+D:\New Project\New Project\TestProject\TestProject.Core\bin\Debug\net5.0\ref\TestProject.Core.dll
+D:\New Project\New Project\TestProject\TestProject.Core\bin\Debug\net5.0\TestProject.Core.pdb
+D:\New Project\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.csproj.AssemblyReference.cache
+D:\New Project\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Project\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.AssemblyInfoInputs.cache
+D:\New Project\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.AssemblyInfo.cs
+D:\New Project\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.csproj.CoreCompileInputs.cache
+D:\New Project\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.dll
+D:\New Project\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\ref\TestProject.Core.dll
+D:\New Project\New Project\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.pdb

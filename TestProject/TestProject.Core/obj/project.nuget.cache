@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3DIYSFO3oQWbDrp5Cwb96QyIMtEjGul18kxUOCYJaVa7UyMnElfj71kfwH8EHf8viI4Sprm5CV1UJytRgMs+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\Source\\Repos\\Mohamed93Kamal\\TheRepositoryNews\\TestProject\\TestProject.Core\\TestProject.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.14\\microsoft.aspnetcore.http.features.5.0.14.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,34 @@
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Infostracture.deps.json
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Infostracture.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\ref\TestProject.Infostracture.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Infostracture.pdb
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Core.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Data.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Data.pdb
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Core.pdb
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.csproj.AssemblyReference.cache
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.AssemblyInfoInputs.cache
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.AssemblyInfo.cs
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.csproj.CoreCompileInputs.cache
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.csproj.CopyComplete
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\ref\TestProject.Infostracture.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.pdb
+D:\New Project\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Infostracture.deps.json
+D:\New Project\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Infostracture.dll
+D:\New Project\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\ref\TestProject.Infostracture.dll
+D:\New Project\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Infostracture.pdb
+D:\New Project\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Core.dll
+D:\New Project\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Data.dll
+D:\New Project\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Data.pdb
+D:\New Project\New Project\TestProject\TestProject.Infostracture\bin\Debug\net5.0\TestProject.Core.pdb
+D:\New Project\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.csproj.AssemblyReference.cache
+D:\New Project\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Project\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.AssemblyInfoInputs.cache
+D:\New Project\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.AssemblyInfo.cs
+D:\New Project\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.csproj.CoreCompileInputs.cache
+D:\New Project\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.csproj.CopyComplete
+D:\New Project\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.dll
+D:\New Project\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\ref\TestProject.Infostracture.dll
+D:\New Project\New Project\TestProject\TestProject.Infostracture\obj\Debug\net5.0\TestProject.Infostracture.pdb

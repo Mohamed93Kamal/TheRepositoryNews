@@ -1,0 +1,36 @@
+D:\New Project CMC\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Data.deps.json
+D:\New Project CMC\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Data.runtimeconfig.json
+D:\New Project CMC\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Data.runtimeconfig.dev.json
+D:\New Project CMC\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Data.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\ref\TestProject.Data.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Data.pdb
+D:\New Project CMC\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Core.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Core.pdb
+D:\New Project CMC\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.csproj.AssemblyReference.cache
+D:\New Project CMC\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Project CMC\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.AssemblyInfoInputs.cache
+D:\New Project CMC\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.AssemblyInfo.cs
+D:\New Project CMC\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.csproj.CoreCompileInputs.cache
+D:\New Project CMC\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.csproj.CopyComplete
+D:\New Project CMC\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\ref\TestProject.Data.dll
+D:\New Project CMC\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.pdb
+D:\New Project CMC\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.genruntimeconfig.cache
+D:\New Project\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Data.deps.json
+D:\New Project\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Data.runtimeconfig.json
+D:\New Project\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Data.runtimeconfig.dev.json
+D:\New Project\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Data.dll
+D:\New Project\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\ref\TestProject.Data.dll
+D:\New Project\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Data.pdb
+D:\New Project\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Core.dll
+D:\New Project\New Project\TestProject\TestProject.Data\bin\Debug\net5.0\TestProject.Core.pdb
+D:\New Project\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.csproj.AssemblyReference.cache
+D:\New Project\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Project\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.AssemblyInfoInputs.cache
+D:\New Project\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.AssemblyInfo.cs
+D:\New Project\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.csproj.CoreCompileInputs.cache
+D:\New Project\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.csproj.CopyComplete
+D:\New Project\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.dll
+D:\New Project\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\ref\TestProject.Data.dll
+D:\New Project\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.pdb
+D:\New Project\New Project\TestProject\TestProject.Data\obj\Debug\net5.0\TestProject.Data.genruntimeconfig.cache
